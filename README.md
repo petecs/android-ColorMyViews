@@ -4,7 +4,7 @@
 
 Android app that uses ConstraintLayout to implement a responsive design.
 
-## User Stores
+## Features
 
 The following functionality is complete:
 
